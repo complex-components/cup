@@ -1,14 +1,14 @@
 # Complex Components Consortium Cup
 
-The `Complex Components Consortium Cup` is a competative workshop where participants compete to implement [complex components](../consortium#complex-components).
+The `Complex Components Consortium Cup` is a competative workshop where participants compete to implement [complex components](https://github.com/complex-components/consortium#complex-components).
 
 ![Logo](cccc-logo.png)
 
-For more information about what a complex component is and how to implement one, check out [this readme](../consortium).
+For more information about what a complex component is and how to implement one, check out [this readme](https://github.com/complex-components/consortium).
 
 The `cccc` is executed with teams (or individuals) working to implement a complex component idea.
 Each team get's a repo under the `Complex Components Consortium` github organization.
-Progress can be measured using the [cup-dashboard](../cup-dashboard).
+Progress can be measured using the [cup-dashboard](https://github.com/complex-components/cup-dashboard).
 Mentors should be available during the workshop.
 
 The following rules apply:
