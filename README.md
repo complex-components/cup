@@ -1,4 +1,4 @@
-# Complex Components Cup
+# Complex Components Consortium Cup
 
 ![Logo](cccc-logo.png)
 
