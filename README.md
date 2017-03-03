@@ -21,7 +21,7 @@ The following rules apply:
 5. Team sizes should ideally be between 1 and 3 persons
 ```
 
-In addition there is a set of secret conditions that will give teams additional points.
+In addition there is a set of `secret conditions` that will give teams additional points.
 
 A winner will be selected by mentors and prizes will be magnificent! :medal_sports: :sparkles:
 
