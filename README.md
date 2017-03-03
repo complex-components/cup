@@ -20,3 +20,9 @@ The following rules apply:
 4. Should be installable & usable via npm (commonjs)
 5. Team sizes should ideally be between 1 and 3 persons
 ```
+
+In addition there is a set of secret conditions that will give teams additional points.
+
+A winner will be selected by mentors and prizes will be magnificent! :medal: :sparkles:
+
+~ The Complex Components Consortium
