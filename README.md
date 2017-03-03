@@ -23,6 +23,8 @@ The following rules apply:
 
 In addition there is a set of `secret conditions` that will give teams additional points.
 
-A winner will be selected by mentors and prizes will be magnificent! :medal_sports: :sparkles:
+A winner will be selected by mentors and prizes will be magnificent!
+
+:medal_sports: :sparkles:
 
 ~ The Complex Components Consortium
