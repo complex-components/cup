@@ -1,16 +1,6 @@
 footer: Knowit Stavanger ~ Asbjorn Enge
 
-![](./cccc-logo.png) 
-
----
-
-![](https://raw.githubusercontent.com/complex-components/consortium/master/ccc-logo.png)
-
----
-
-# *https://github.com/complex-components*
-
-![](https://raw.githubusercontent.com/complex-components/consortium/master/ccc-logo.png)
+![](./cccc-logo-large.png) 
 
 ---
 
@@ -18,7 +8,13 @@ footer: Knowit Stavanger ~ Asbjorn Enge
 
 Workshop / konkurranse for å lage den beste *Complex Component*.
 
-![](./cccc-logo.png) 
+![](./cccc-logo-large.png) 
+
+---
+
+# *https://github.com/complex-components*
+
+![](https://raw.githubusercontent.com/complex-components/consortium/master/ccc-logo.png)
 
 ---
 
@@ -76,7 +72,7 @@ npm start
 ![](https://avatars3.githubusercontent.com/u/241601?v=3&s=460) 
 ![](https://avatars2.githubusercontent.com/u/1215210?v=3&s=400)
 ![](https://avatars2.githubusercontent.com/u/1620740?v=3&s=400)
-![](https://avatars1.githubusercontent.com/u/13849663?v=3&s=400)
+![](https://avatars1.githubusercontent.com/u/1459265?v=3&s=400)
 
 ---
 
@@ -90,4 +86,4 @@ npm start
 
 ---
 
-![](./cccc-logo.png) 
+![](./cccc-logo-large.png) 
